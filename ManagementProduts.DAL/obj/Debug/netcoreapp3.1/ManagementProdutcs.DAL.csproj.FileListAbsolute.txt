@@ -1,0 +1,9 @@
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\bin\Debug\netcoreapp3.1\ManagementProducts.DAL.deps.json
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\bin\Debug\netcoreapp3.1\ManagementProducts.DAL.dll
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\bin\Debug\netcoreapp3.1\ManagementProducts.DAL.pdb
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProdutcs.DAL.AssemblyInfoInputs.cache
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProdutcs.DAL.AssemblyInfo.cs
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProdutcs.DAL.csproj.CoreCompileInputs.cache
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProducts.DAL.dll
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProducts.DAL.pdb
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProdutcs.DAL.csprojAssemblyReference.cache

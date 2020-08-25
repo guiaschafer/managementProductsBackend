@@ -1,0 +1,12 @@
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProduts.DAL.AssemblyInfoInputs.cache
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProduts.DAL.AssemblyInfo.cs
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\bin\Debug\netcoreapp3.1\ManagementProduts.DAL.deps.json
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\bin\Debug\netcoreapp3.1\ManagementProduts.DAL.runtimeconfig.json
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\bin\Debug\netcoreapp3.1\ManagementProduts.DAL.runtimeconfig.dev.json
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\bin\Debug\netcoreapp3.1\ManagementProduts.DAL.dll
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\bin\Debug\netcoreapp3.1\ManagementProduts.DAL.pdb
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProduts.DAL.dll
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProduts.DAL.pdb
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProduts.DAL.genruntimeconfig.cache
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProduts.DAL.csproj.CoreCompileInputs.cache
+C:\projects\managemnt\ManagementProduts\ManagementProduts.DAL\obj\Debug\netcoreapp3.1\ManagementProduts.DAL.csprojAssemblyReference.cache

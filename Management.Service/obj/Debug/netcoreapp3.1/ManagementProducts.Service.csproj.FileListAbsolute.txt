@@ -1,0 +1,14 @@
+C:\projects\managemnt\ManagementProduts\Management.Service\bin\Debug\netcoreapp3.1\ManagementProducts.Service.deps.json
+C:\projects\managemnt\ManagementProduts\Management.Service\bin\Debug\netcoreapp3.1\ManagementProducts.Service.dll
+C:\projects\managemnt\ManagementProduts\Management.Service\bin\Debug\netcoreapp3.1\ManagementProducts.Service.pdb
+C:\projects\managemnt\ManagementProduts\Management.Service\bin\Debug\netcoreapp3.1\ManagementProducts.DAL.dll
+C:\projects\managemnt\ManagementProduts\Management.Service\bin\Debug\netcoreapp3.1\ManagementProducts.Service.Interface.dll
+C:\projects\managemnt\ManagementProduts\Management.Service\bin\Debug\netcoreapp3.1\ManagementProducts.Service.Interface.pdb
+C:\projects\managemnt\ManagementProduts\Management.Service\bin\Debug\netcoreapp3.1\ManagementProducts.DAL.pdb
+C:\projects\managemnt\ManagementProduts\Management.Service\obj\Debug\netcoreapp3.1\ManagementProducts.Service.csprojAssemblyReference.cache
+C:\projects\managemnt\ManagementProduts\Management.Service\obj\Debug\netcoreapp3.1\ManagementProducts.Service.AssemblyInfoInputs.cache
+C:\projects\managemnt\ManagementProduts\Management.Service\obj\Debug\netcoreapp3.1\ManagementProducts.Service.AssemblyInfo.cs
+C:\projects\managemnt\ManagementProduts\Management.Service\obj\Debug\netcoreapp3.1\ManagementProducts.Service.csproj.CopyComplete
+C:\projects\managemnt\ManagementProduts\Management.Service\obj\Debug\netcoreapp3.1\ManagementProducts.Service.dll
+C:\projects\managemnt\ManagementProduts\Management.Service\obj\Debug\netcoreapp3.1\ManagementProducts.Service.pdb
+C:\projects\managemnt\ManagementProduts\Management.Service\obj\Debug\netcoreapp3.1\ManagementProducts.Service.csproj.CoreCompileInputs.cache
