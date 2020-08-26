@@ -28,6 +28,7 @@ namespace ManagementProducts.WebApi.Controllers
         {
             try
             {
+                product.Id = 0;
                 _productUpdater.Save(product);
 
                 return Ok();

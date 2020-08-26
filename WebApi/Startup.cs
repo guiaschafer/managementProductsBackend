@@ -9,6 +9,7 @@ using ManagementProducts.Service.Interface.Repositories;
 using ManagementProducts.Service.Interface.Updaters;
 using ManagementProducts.Service.Repositories;
 using ManagementProducts.Service.Updaters;
+using ManagementProducts.WebApi;
 using ManagementProduts.DAL.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -25,6 +26,7 @@ namespace WebApi
 {
     public class Startup
     {
+        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -35,6 +37,17 @@ namespace WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                                  builder =>
+                                  {
+                                      builder.WithOrigins("http://localhost:3000/").AllowAnyOrigin()
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+                                  });
+            });
             services.AddControllers();
 
             services.AddDbContext<DatabaseContext>(o =>
@@ -46,6 +59,7 @@ namespace WebApi
             services.AddAutoMapper(c => c.AddProfile<AutoMapping>(), typeof(Startup));
             services.TryAddScoped<IProductRepository, ProductRepository>();
             services.TryAddScoped<IProductUpdater, ProductUpdater>();
+
 
         }
 
@@ -61,11 +75,14 @@ namespace WebApi
 
             app.UseRouting();
 
+
+            app.UseCors(MyAllowSpecificOrigins);
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+
             });
 
             app.UseSwagger();
@@ -74,8 +91,9 @@ namespace WebApi
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Management Products");
                 c.RoutePrefix = string.Empty;
             });
+
         }
 
-    
+
     }
 }
